@@ -1,4 +1,4 @@
-package Algoritm;
+package Others;
 
 public class ReverseChars {
     public static void ofString(String str){

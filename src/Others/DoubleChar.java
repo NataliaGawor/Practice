@@ -1,6 +1,5 @@
-package Algoritm;
+package Others;
 
-import javax.print.DocFlavor;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

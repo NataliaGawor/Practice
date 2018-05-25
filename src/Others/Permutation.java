@@ -1,4 +1,4 @@
-package Algoritm;
+package Others;
 
 public class Permutation {
 

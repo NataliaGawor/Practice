@@ -1,12 +1,4 @@
-import Algoritm.DoubleChar;
-import Algoritm.NoPlusAdder;
-import Algoritm.Permutation;
-import Algoritm.ReverseChars;
-import Test.EvenIndexTest;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import Others.DoubleChar;
 
 public class Main {
 

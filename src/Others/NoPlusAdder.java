@@ -1,4 +1,4 @@
-package Algoritm;
+package Others;
 
 public class NoPlusAdder {
     public static int add(int x, int y)
